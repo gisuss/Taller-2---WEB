@@ -1,0 +1,15 @@
+<!ELEMENT organizacion (cliente)+>
+<!ELEMENT cliente (identificacion, contacto, civil)>
+<!ELEMENT identificacion (nombre, edad)>
+<!ELEMENT nombre (#PCDATA)>
+	<!ATTLIST nombre cedula ID #REQUIRED>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT contacto (telefono, (correo+))>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT correo (#PCDATA)>
+<!ELEMENT civil (direccion, profesion, ocupasion)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT profesion (#PCDATA)>
+<!ELEMENT ocupasion (#PCDATA)>
+
+<!ATTLIST civil status (Soltero|Casado|Divorciado|Concubinato|Viudo) "Soltero">

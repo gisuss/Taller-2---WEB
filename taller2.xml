@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE organizacion SYSTEM "taller2.dtd">
+
+<organizacion>
+	<cliente>
+		<identificacion>
+			<nombre cedula="20753800">Jesus Romero</nombre>
+			<edad>24</edad>
+		</identificacion>
+		<contacto>
+			<telefono>0424-4600000</telefono>
+			<correo>gisuss8520@gmail.com</correo>
+		</contacto>
+		<civil status="">
+			<direccion>Urb. Parque Cabriales,  Naguanagua .</direccion>
+			<profesion>Bachiller</profesion>
+			<ocupacion>Estudiante</ocupacion>
+		</civil>
+	</cliente>
+</organizacion>
