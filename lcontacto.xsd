@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="lcontacto">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="contacto" maxOccurs="20">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="nombre">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:pattern value="([A-Z]([a-z])+)"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="apellido">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:pattern value="([A-Z]([a-z])+)"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="edad">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:integer">
+										<xsd:minExclusive value="15"/>
+										<xsd:maxExclusive value="90"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="genero">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:pattern value="Masculino|Femenino|Otro"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="telefono" maxOccurs="2">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:minLength value="12"/>
+										<xsd:maxLength value="12"/>
+										<xsd:pattern value="[0-9]{4}-[0-9]{7}"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="correo" type="xsd:string" maxOccurs="2"/>
+							<xsd:element name="estadoCivil">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:enumeration value="soltero"/>
+										<xsd:enumeration value="casado"/>
+										<xsd:enumeration value="divorciado"/>
+										<xsd:enumeration value="concubinato"/>
+										<xsd:enumeration value="viudo"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="direccion" type="xsd:string"/>
+							<xsd:element name="profesion" type="xsd:string"/>
+							<xsd:element name="ocupacion" type="xsd:string"/>
+						</xsd:sequence>
+						<xsd:attribute name="cedula" type="xsd:ID" use="required"/>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

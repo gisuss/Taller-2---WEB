@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lcontacto.xsl"?>
+<!--<!DOCTYPE lcontacto SYSTEM "lcontacto.dtd">-->
+
+<lcontacto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lcontacto.xsd">
+	<contacto cedula="V20786743">
+		<nombre>Yessica</nombre>
+		<apellido>Rios</apellido>
+		<edad>22</edad>
+		<genero>Femenino</genero>
+		<telefono>0416-5142345</telefono>
+		<telefono>0416-5142354</telefono>
+		<correo>yskrios@gmail.com</correo>
+		<estadoCivil>soltero</estadoCivil>
+		<direccion>Bejuma</direccion>
+		<profesion>Estudiante</profesion>
+		<ocupacion>Estudiante</ocupacion>
+	</contacto>
+	<contacto cedula="V20753800">
+		<nombre>Jesús</nombre>
+		<apellido>Romero</apellido>
+		<edad>24</edad>
+		<genero>Masculino</genero>
+		<telefono>0424-4600000</telefono>
+		<correo>gisuss8520@gmail.com</correo>
+		<correo>thunder_hawk2005@hotmail.com</correo>
+		<estadoCivil>soltero</estadoCivil>
+		<direccion>Naguanagua</direccion>
+		<profesion>Estudiante</profesion>
+		<ocupacion>Estudiante</ocupacion>
+	</contacto>
+	<contacto cedula="E00000123">
+		<nombre>Cristóbal</nombre>
+		<apellido>Colón</apellido>
+		<edad>55</edad>
+		<genero>Masculino</genero>
+		<telefono>1436-1456506</telefono>
+		<correo>CCXpoFerens@gmail.com</correo>
+		<estadoCivil>viudo</estadoCivil>
+		<direccion>Génova, Italia</direccion>
+		<profesion>Marinero</profesion>
+		<ocupacion>Navegante, Cartógrafo, Almirante, Virrey y Gobernador General</ocupacion>
+	</contacto>
+	<contacto cedula="E20000321">
+		<nombre>Alejandro</nombre>
+		<apellido>Magno</apellido>
+		<edad>33</edad>
+		<genero>Masculino</genero>
+		<telefono>1436-1456506</telefono>
+		<correo>AMagno@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Pela, Macedonia</direccion>
+		<profesion>Conquistador</profesion>
+		<ocupacion>Conquistador</ocupacion>
+	</contacto>
+	<contacto cedula="E00000001">
+		<nombre>Simón</nombre>
+		<apellido>Bolívar</apellido>
+		<edad>47</edad>
+		<genero>Masculino</genero>
+		<telefono>0212-6718060</telefono>
+		<correo>BSimon@hotmail.com</correo>
+		<estadoCivil>viudo</estadoCivil>
+		<direccion>Caracas, Venezuela</direccion>
+		<profesion>Conquistador</profesion>
+		<ocupacion>Conquistador</ocupacion>
+	</contacto>
+	<contacto cedula="E99999998">
+		<nombre>Adolfo</nombre>
+		<apellido>Hitler</apellido>
+		<edad>56</edad>
+		<genero>Masculino</genero>
+		<telefono>1929-8060099</telefono>
+		<correo>AdolfHitler@yahoo.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Braunau, Alemania</direccion>
+		<profesion>Político y Militar</profesion>
+		<ocupacion>Dictador</ocupacion>
+	</contacto>
+	<contacto cedula="E15879658">
+		<nombre>John</nombre>
+		<apellido>Rockefeller</apellido>
+		<edad>98</edad>
+		<genero>Masculino</genero>
+		<telefono>1111-4607896</telefono>
+		<correo>Rockefeller@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Richford, New York</direccion>
+		<profesion>Negocios</profesion>
+		<ocupacion>Empresario e Inversionista</ocupacion>
+	</contacto>
+</lcontacto>
