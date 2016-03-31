@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="lcontacto.xsl"?>
-<!--<!DOCTYPE lcontacto SYSTEM "lcontacto.dtd">-->
+<!DOCTYPE lcontacto SYSTEM "lcontacto.dtd">
 
 <lcontacto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lcontacto.xsd">
 	<contacto cedula="V20786743">
