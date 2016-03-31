@@ -5,7 +5,7 @@
 <lcontacto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lcontacto.xsd">
 	<contacto cedula="V20786743">
 		<nombre>Yessica</nombre>
-		<apellido>Rios</apellido>
+		<apellido>Ríos</apellido>
 		<edad>22</edad>
 		<genero>Femenino</genero>
 		<telefono>0416-5142345</telefono>
@@ -15,6 +15,7 @@
 		<direccion>Bejuma</direccion>
 		<profesion>Estudiante</profesion>
 		<ocupacion>Estudiante</ocupacion>
+		<imagen>Images/yessica.jpg</imagen>
 	</contacto>
 	<contacto cedula="V20753800">
 		<nombre>Jesús</nombre>
@@ -28,6 +29,7 @@
 		<direccion>Naguanagua</direccion>
 		<profesion>Estudiante</profesion>
 		<ocupacion>Estudiante</ocupacion>
+		<imagen>Images/jesus.jpg</imagen>
 	</contacto>
 	<contacto cedula="E00000123">
 		<nombre>Cristóbal</nombre>
@@ -40,6 +42,7 @@
 		<direccion>Génova, Italia</direccion>
 		<profesion>Marinero</profesion>
 		<ocupacion>Navegante, Cartógrafo, Almirante, Virrey y Gobernador General</ocupacion>
+		<imagen>Images/cristobal.jpg</imagen>
 	</contacto>
 	<contacto cedula="E20000321">
 		<nombre>Alejandro</nombre>
@@ -52,8 +55,9 @@
 		<direccion>Pela, Macedonia</direccion>
 		<profesion>Conquistador</profesion>
 		<ocupacion>Conquistador</ocupacion>
+		<imagen>Images/magno.jpg</imagen>
 	</contacto>
-	<contacto cedula="E00000001">
+	<contacto cedula="V00000001">
 		<nombre>Simón</nombre>
 		<apellido>Bolívar</apellido>
 		<edad>47</edad>
@@ -62,8 +66,9 @@
 		<correo>BSimon@hotmail.com</correo>
 		<estadoCivil>viudo</estadoCivil>
 		<direccion>Caracas, Venezuela</direccion>
-		<profesion>Conquistador</profesion>
-		<ocupacion>Conquistador</ocupacion>
+		<profesion>Político y Militar</profesion>
+		<ocupacion>Libertador</ocupacion>
+		<imagen>Images/bolivar.jpg</imagen>
 	</contacto>
 	<contacto cedula="E99999998">
 		<nombre>Adolfo</nombre>
@@ -76,17 +81,204 @@
 		<direccion>Braunau, Alemania</direccion>
 		<profesion>Político y Militar</profesion>
 		<ocupacion>Dictador</ocupacion>
+		<imagen>Images/hitler.jpg</imagen>
 	</contacto>
 	<contacto cedula="E15879658">
 		<nombre>John</nombre>
 		<apellido>Rockefeller</apellido>
 		<edad>98</edad>
 		<genero>Masculino</genero>
-		<telefono>1111-4607896</telefono>
+		<telefono>0111-4607896</telefono>
 		<correo>Rockefeller@gmail.com</correo>
 		<estadoCivil>casado</estadoCivil>
 		<direccion>Richford, New York</direccion>
 		<profesion>Negocios</profesion>
 		<ocupacion>Empresario e Inversionista</ocupacion>
+		<imagen>Images/rockefeller.jpg</imagen>
+	</contacto>
+	<contacto cedula="E18756945">
+		<nombre>Sigmund</nombre>
+		<apellido>Freud</apellido>
+		<edad>83</edad>
+		<genero>Masculino</genero>
+		<telefono>0358-4605587</telefono>
+		<correo>SigmundFreed@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Pribor, República Checa</direccion>
+		<profesion>Psicoanálista</profesion>
+		<ocupacion>Escritor</ocupacion>
+		<imagen>Images/sigmund.jpg</imagen>
+	</contacto>
+	<contacto cedula="E48758975">
+		<nombre>Hernán</nombre>
+		<apellido>Cortés</apellido>
+		<edad>63</edad>
+		<genero>Masculino</genero>
+		<telefono>0400-4605697</telefono>
+		<correo>HCortess@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>España</direccion>
+		<profesion>Politico</profesion>
+		<ocupacion>Conquistador</ocupacion>
+		<imagen>Images/cortes.jpg</imagen>
+	</contacto>
+	<contacto cedula="E08758204">
+		<nombre>Andrew</nombre>
+		<apellido>Carnegie</apellido>
+		<edad>83</edad>
+		<genero>Masculino</genero>
+		<telefono>0111-7896523</telefono>
+		<correo>AndrewCarnegie@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Escocia</direccion>
+		<profesion>Radiotelegrafista</profesion>
+		<ocupacion>Filántropo y Magnate</ocupacion>
+		<imagen>Images/carnegie.jpg</imagen>
+	</contacto>
+	<contacto cedula="E01558117">
+		<nombre>Louis</nombre>
+		<apellido>Daguerre</apellido>
+		<edad>63</edad>
+		<genero>Masculino</genero>
+		<telefono>0269-7006980</telefono>
+		<correo>Lodaguerre@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Francia</direccion>
+		<profesion>Fisico</profesion>
+		<ocupacion>Fotografo, Pintor e Inventor</ocupacion>
+		<imagen>Images/louis.jpg</imagen>
+	</contacto>
+	<contacto cedula="E02058558">
+		<nombre>Nikola</nombre>
+		<apellido>Tesla</apellido>
+		<edad>86</edad>
+		<genero>Masculino</genero>
+		<telefono>0311-9685621</telefono>
+		<telefono>0111-7559103</telefono>
+		<correo>NiKoLaTeSlA@gmail.com</correo>
+		<estadoCivil>soltero</estadoCivil>
+		<direccion>Smiljan, Austría</direccion>
+		<profesion>Fisico</profesion>
+		<ocupacion>Inventor, Ingeniero Mecánico, Ingeniero Eléctrico</ocupacion>
+		<imagen>Images/tesla.jpg</imagen>
+	</contacto>
+	<contacto cedula="E08088334">
+		<nombre>Albert</nombre>
+		<apellido>Einstein</apellido>
+		<edad>76</edad>
+		<genero>Masculino</genero>
+		<telefono>0611-4445589</telefono>
+		<telefono>0111-9686301</telefono>
+		<correo>Aeinstein@gmail.com</correo>
+		<correo>alberteinstein@hotmail.com</correo>
+		<estadoCivil>soltero</estadoCivil>
+		<direccion>Ulm, Alemania</direccion>
+		<profesion>Fisico</profesion>
+		<ocupacion>Inventor, Ingeniero Mecánico y Matemático</ocupacion>
+		<imagen>Images/einstein.jpg</imagen>
+	</contacto>
+	<contacto cedula="E01188996">
+		<nombre>Barack</nombre>
+		<apellido>Obama</apellido>
+		<edad>54</edad>
+		<genero>Masculino</genero>
+		<telefono>0611-4445589</telefono>
+		<telefono>0111-9686301</telefono>
+		<correo>barackObamaPresident@gmail.com</correo>
+		<correo>Barackobama@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Honolulu, Estados Unidos</direccion>
+		<profesion>Senador</profesion>
+		<ocupacion>Presidente de los EEUU</ocupacion>
+		<imagen>Images/obama.jpg</imagen>
+	</contacto>
+	<contacto cedula="E01588887">
+		<nombre>Bill</nombre>
+		<apellido>Gates</apellido>
+		<edad>60</edad>
+		<genero>Masculino</genero>
+		<telefono>0523-3336596</telefono>
+		<telefono>0111-3335599</telefono>
+		<correo>microsoft.billgates@outlook.com</correo>
+		<correo>billgates@hotmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Seattle, Estados Unidos</direccion>
+		<profesion>Informatico</profesion>
+		<ocupacion>Fundador de Microsoft y Empresario</ocupacion>
+		<imagen>Images/bill.jpg</imagen>
+	</contacto>
+	<contacto cedula="E01111598">
+		<nombre>Steve</nombre>
+		<apellido>Jobs</apellido>
+		<edad>86</edad>
+		<genero>Masculino</genero>
+		<telefono>0523-6669852</telefono>
+		<telefono>0111-4447820</telefono>
+		<correo>steve..jobs@gmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>San Francisco, Estados Unidos</direccion>
+		<profesion>Informatico</profesion>
+		<ocupacion>Cofundador de Apple Inc y Empresario</ocupacion>
+		<imagen>Images/jobs.jpg</imagen>
+	</contacto>
+	<contacto cedula="E01580222">
+		<nombre>Mark</nombre>
+		<apellido>Zuckerberg</apellido>
+		<edad>31</edad>
+		<genero>Masculino</genero>
+		<telefono>0523-4145878</telefono>
+		<telefono>0111-3339900</telefono>
+		<correo>markf@gmail.com</correo>
+		<correo>MZuckerberg@hotmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>White Plains, New York, Estados Unidos</direccion>
+		<profesion>Informatico</profesion>
+		<ocupacion>Fundador de Facebook y Empresario</ocupacion>
+		<imagen>Images/zuckerberg.jpg</imagen>
+	</contacto>
+	<contacto cedula="E01696662">
+		<nombre>Donald</nombre>
+		<apellido>Trump</apellido>
+		<edad>69</edad>
+		<genero>Masculino</genero>
+		<telefono>0523-6147852</telefono>
+		<telefono>0111-6698850</telefono>
+		<correo>dlTrump@gmail.com</correo>
+		<correo>DonaldJtrump@hotmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>New York, Estados Unidos</direccion>
+		<profesion>Político</profesion>
+		<ocupacion>Ejecutivo, Político y Empresario</ocupacion>
+		<imagen>Images/trump.jpg</imagen>
+	</contacto>
+	<contacto cedula="E10753654">
+		<nombre>Sam</nombre>
+		<apellido>Walton</apellido>
+		<edad>74</edad>
+		<genero>Masculino</genero>
+		<telefono>0503-4786633</telefono>
+		<telefono>0111-7896500</telefono>
+		<correo>walton@gmail.com</correo>
+		<correo>waltonwalmarsam@hotmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Oklahoma, Estados Unidos</direccion>
+		<profesion>Empresario</profesion>
+		<ocupacion>Fundador de Walmart</ocupacion>
+		<imagen>Images/walton.jpg</imagen>
+	</contacto>
+	<contacto cedula="E10750258">
+		<nombre>Kevin</nombre>
+		<apellido>Systorm</apellido>
+		<edad>32</edad>
+		<genero>Masculino</genero>
+		<telefono>0503-6663320</telefono>
+		<telefono>0111-4445563</telefono>
+		<correo>kevinSys@gmail.com</correo>
+		<correo>SystormKevin@hotmail.com</correo>
+		<estadoCivil>casado</estadoCivil>
+		<direccion>Holliston, Massachusetts</direccion>
+		<profesion>Informatico</profesion>
+		<ocupacion>Fundador de Instagram</ocupacion>
+		<imagen>Images/systorm.jpg</imagen>
 	</contacto>
 </lcontacto>

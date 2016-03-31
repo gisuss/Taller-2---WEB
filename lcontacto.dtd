@@ -1,5 +1,5 @@
 <!ELEMENT lcontacto (contacto+)>
-<!ELEMENT contacto (nombre, apellido, edad, genero, telefono+, correo+, estadoCivil, direccion, profesion, ocupacion)>
+<!ELEMENT contacto (nombre, apellido, edad, genero, telefono+, correo+, estadoCivil, direccion, profesion, ocupacion, imagen)>
 <!ATTLIST contacto cedula ID #REQUIRED>
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT apellido (#PCDATA)>
@@ -11,3 +11,4 @@
 <!ELEMENT direccion (#PCDATA)>
 <!ELEMENT profesion (#PCDATA)>
 <!ELEMENT ocupacion (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>

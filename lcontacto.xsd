@@ -59,6 +59,7 @@
 							<xsd:element name="direccion" type="xsd:string"/>
 							<xsd:element name="profesion" type="xsd:string"/>
 							<xsd:element name="ocupacion" type="xsd:string"/>
+							<xsd:element name="imagen" type="xsd:string"/>
 						</xsd:sequence>
 						<xsd:attribute name="cedula" type="xsd:ID" use="required"/>
 					</xsd:complexType>
