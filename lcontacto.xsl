@@ -61,17 +61,11 @@
 				text-align: center;
 				padding: 0.01em 16px;
 				border-top-left-radius: 8px;
-				border-top-right-radius: 8px;
-				background-image: url("images/medio-ambiente.jpg");
-				background-repeat: repeat;
-				background-size: cover;
-			}
+				border-top-right-radius: 8px;			}
 			
 			.cajacontenedoraPie {
 				font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 				text-align: right;
-				display: block;
-				clear: both;
 				padding: 0.01em 16px;
 				margin-top: 30px;
 				border-bottom-left-radius: 8px;
@@ -115,11 +109,11 @@
             </table>
             
             <div class="flotantearriba">
-                <a href="#inicio"><img src="images/boton-subir.png" alt="arriba" title="arriba" class="img-boton-flotante"/></a>
+                <a href="#inicio"><img src="Images/boton-subir.png" alt="arriba" title="arriba" class="img-boton-flotante"/></a>
             </div>
             
             <div class="flotanteabajo">
-                <a href="#fin"><img src="images/boton-bajar.png" alt="abajo" title="abajo" class="img-boton-flotante"/></a>
+                <a href="#fin"><img src="Images/boton-bajar.png" alt="abajo" title="abajo" class="img-boton-flotante"/></a>
             </div>
             
             <footer class="cajacontenedoraPie Tealcolor" id="fin">
