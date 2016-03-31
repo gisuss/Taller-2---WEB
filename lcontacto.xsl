@@ -109,7 +109,7 @@
 			<table border="1" align="center">
             	<tr>
                     <th>Perfil</th>
-					<th>Información</th>
+					<th>Informacion</th>
 				</tr>
                 <xsl:apply-templates select='contacto'/>
             </table>
@@ -125,8 +125,8 @@
             <footer class="cajacontenedoraPie Tealcolor" id="fin">
                 <br />
                 <address>Desarrollado por:</address>
-                <address><b>Jesús Romero</b> - C.I.: 20.753.800</address>
-                <address><b>Yessica Ríos</b> - C.I.: 20.786.743</address><br />
+                <address><b>Jesus Romero</b> - C.I.: 20.753.800</address>
+                <address><b>Yessica Rios</b> - C.I.: 20.786.743</address><br />
 			</footer>
         </body>    
     </xsl:template>

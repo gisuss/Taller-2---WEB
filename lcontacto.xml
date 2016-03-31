@@ -5,7 +5,7 @@
 <lcontacto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lcontacto.xsd">
 	<contacto cedula="V20786743">
 		<nombre>Yessica</nombre>
-		<apellido>Ríos</apellido>
+		<apellido>Rios</apellido>
 		<edad>22</edad>
 		<genero>Femenino</genero>
 		<telefono>0416-5142345</telefono>
@@ -18,7 +18,7 @@
 		<imagen>Images/yessica.jpg</imagen>
 	</contacto>
 	<contacto cedula="V20753800">
-		<nombre>Jesús</nombre>
+		<nombre>Jesus</nombre>
 		<apellido>Romero</apellido>
 		<edad>24</edad>
 		<genero>Masculino</genero>
@@ -32,8 +32,8 @@
 		<imagen>Images/jesus.jpg</imagen>
 	</contacto>
 	<contacto cedula="E00000123">
-		<nombre>Cristóbal</nombre>
-		<apellido>Colón</apellido>
+		<nombre>Cristobal</nombre>
+		<apellido>Colon</apellido>
 		<edad>55</edad>
 		<genero>Masculino</genero>
 		<telefono>1436-1456506</telefono>
@@ -58,8 +58,8 @@
 		<imagen>Images/magno.jpg</imagen>
 	</contacto>
 	<contacto cedula="V00000001">
-		<nombre>Simón</nombre>
-		<apellido>Bolívar</apellido>
+		<nombre>Simon</nombre>
+		<apellido>Bolivar</apellido>
 		<edad>47</edad>
 		<genero>Masculino</genero>
 		<telefono>0212-6718060</telefono>
@@ -86,7 +86,7 @@
 	<contacto cedula="E15879658">
 		<nombre>John</nombre>
 		<apellido>Rockefeller</apellido>
-		<edad>98</edad>
+		<edad>89</edad>
 		<genero>Masculino</genero>
 		<telefono>0111-4607896</telefono>
 		<correo>Rockefeller@gmail.com</correo>
@@ -110,8 +110,8 @@
 		<imagen>Images/sigmund.jpg</imagen>
 	</contacto>
 	<contacto cedula="E48758975">
-		<nombre>Hernán</nombre>
-		<apellido>Cortés</apellido>
+		<nombre>Hernan</nombre>
+		<apellido>Cortes</apellido>
 		<edad>63</edad>
 		<genero>Masculino</genero>
 		<telefono>0400-4605697</telefono>
